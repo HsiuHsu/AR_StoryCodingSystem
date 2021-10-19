@@ -1,7 +1,7 @@
 # AR Story Coding System
 ## Introduction
 
-AR Story Coding System 是一個虛實交互的互動系統，此項目旨在給予特殊教育孩童進行社交學習。
+AR Story Coding System 是一個虛實交互的互動系統，此專案目的為給予特殊教育孩童進行社交學習。
 
 ## Software Used
 
