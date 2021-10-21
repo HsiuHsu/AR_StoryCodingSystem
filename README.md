@@ -13,4 +13,4 @@ AR Story Coding System 是一個虛實交互的互動系統，此專案目的為
 
 ![](https://i.imgur.com/MFyqKGf.jpg)
 
-**AR Story Coding System by Hsiu-Ting, Hsu (edtLab, NTUT)**
+**AR Story Coding System by Hsiu-Ting Hsu, 2020 (edtLab, NTUT)**
