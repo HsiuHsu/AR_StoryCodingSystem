@@ -1,18 +1,37 @@
 # AR Story Coding System
 ## Introduction
 
-AR Story Coding System 是一個虛實交互的互動系統，此專案目的為給予特殊教育孩童進行社交學習。
+AR Story Coding System is a virtual-real interactive system. The purpose of this project is to provide social learning for children in ASD.
 
-The following is the project structure and design : [Figma](https://www.figma.com/file/OHazbbfVOfFP0eegg0M1TT/ARStoryCodingSystem?node-id=10%3A246)
+## Tech Stack
 
-## Software Used
+Develop with Unity and use AR Foundation technology for virtual-real interaction design. Output to Apk (APP) for operating on tablets.
 
-採用Unity進行開發，運用AR Foundation技術進行虛實的交互設計。
+**Software**: Unity, AR Vuforia, AR Foundation
+
+**3D Models & Character** Animation: iClone, Character Creator
+
+**Design Tools**: Adobe Illustrator
+
+## System Structure
+ 
+In this system, there are two different ways to play: 
+
+1. Board Game
+2. Simulated Interaction
 
 ## Practical Operation
+**Board Game**
 
-![](https://i.imgur.com/JKi5j1B.jpg)
+By scanning the graphic social situation cards with the camera, the virtual social situations will be presented on the digital screen, allowing learners to learn more about social behavior.
 
-![](https://i.imgur.com/MFyqKGf.jpg)
+![](https://i.imgur.com/3YUZQYU.jpg)
 
-**AR Story Coding System by Hsiu-Ting Hsu, 2020 (edtLab, NTUT)**
+**Simulated Interaction**
+
+Detect the plane in the actual field through the illumination of the lens. Using tracking technology, the virtual stereo image is presented in the actual field to achieve the effect of overlapping the virtual and actual fields. It allows participants to learn social behavioral actions through simulation.
+
+![](https://i.imgur.com/zaLjZaC.jpg)
+
+
+**AR Story Coding System by Hsiu-Ting, Hsu (edtLab, NTUT)**
