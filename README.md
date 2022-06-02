@@ -7,9 +7,9 @@ AR Story Coding System is a virtual-real interactive system. The purpose of this
 
 Develop with Unity and use AR Foundation technology for virtual-real interaction design. Output to Apk (APP) for operating on tablets.
 
-### Software
-
 Unity, AR Vuforia, AR Foundation
+
+## Tool Stack
 
 ### 3D Models & Character Animation
 
